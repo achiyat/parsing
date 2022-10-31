@@ -1,0 +1,5 @@
+﻿  parsing_example.c
+C:\Users\achiy\source\repos\parsing_example\parsing_example\parsing_example.c(57,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\achiy\source\repos\parsing_example\parsing_example\parsing_example.c(395,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\achiy\source\repos\parsing_example\parsing_example\parsing_example.c(391,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  parsing_example.vcxproj -> C:\Users\achiy\source\repos\parsing_example\x64\Debug\parsing_example.exe

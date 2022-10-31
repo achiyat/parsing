@@ -1,0 +1,3 @@
+﻿  parsing_class.c
+C:\Users\achiy\source\repos\parsing_class\parsing_class\parsing_class.c(77,5): warning C4013: 'gets' undefined; assuming extern returning int
+  parsing_class.vcxproj -> C:\Users\achiy\source\repos\parsing_class\x64\Debug\parsing_class.exe
